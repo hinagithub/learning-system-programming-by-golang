@@ -1,0 +1,8 @@
+mkdir color 
+cd color
+touch main.go 
+main.go にコードを書く
+go mod init party-15-color
+(party-15-color はなんでもいい)
+6. go mod tidy
+(パッケージを取得してくれる)
